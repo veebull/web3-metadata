@@ -1,7 +1,7 @@
 {
-    "name": "BW Jetton",
-    "description": "Sample BW of Jetton",
-    "symbol": "BWJ",
+    "name": "BOOM BW Jetton",
+    "description": "BOOM BW of Jetton",
+    "symbol": "BOOM",
     "decimals": 0,
     "image": "https://raw.githubusercontent.com/veebull/web3-metadata/main/bwj.jpg"
 }
